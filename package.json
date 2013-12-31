@@ -1,0 +1,23 @@
+{
+  "name": "crowd-initiatives",
+  "description": "Crowd Initiatives Application",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+   "dependencies": {
+        "express": "3.x"
+    },
+  "devDependencies": {},
+  "keywords": [
+    "crowd",
+    "initiatives"
+  ],
+  "author": "renaud phelizon",
+  "license": "BSD-2-Clause"
+}
